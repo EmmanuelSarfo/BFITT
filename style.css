@@ -225,6 +225,8 @@ img
 	cursor: pointer;
 	flex: 1;
 	transition: background-color 0.3s ease;
+	min-height: 150px; /* Adjust the value as needed */
+	min-width: 300px; /* Adjust the value as needed */
 }
 
 .review-card:hover {
